@@ -2,19 +2,7 @@
 
 **Candidate:** Shane O'Neill  
 **Language Used:** Python  
-**Completion Date:** 10/21/2025
-
-### Structure
-qa-analyst-assessment/
-
-├── README.md                     
-├── requirements.txt            
-├── part1-functional/
-│   
-└── solution.py             
-├── part2-api-testing/
-│   
-└── test_api.py             
+**Completion Date:** 10/21/2025        
 
 ## Part 1: Functional Programming
 - **Time Spent:** ~30 minutes  
