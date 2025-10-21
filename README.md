@@ -27,3 +27,13 @@ python part1-functional/solution.py
 pip install -r requirements.txt
 pytest part2-api-testing/test_api.py
 ```
+
+### Structure
+qa-analyst-assessment/
+├── README.md                     
+├── requirements.txt            
+├── part1-functional/
+│   └── solution.py             
+├── part2-api-testing/
+│   └── test_api.py             
+
