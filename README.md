@@ -4,6 +4,16 @@
 **Language Used:** Python  
 **Completion Date:** 10/21/2025
 
+### Structure
+qa-analyst-assessment/
+
+├── README.md                     
+├── requirements.txt            
+├── part1-functional/
+│   └── solution.py             
+├── part2-api-testing/
+│   └── test_api.py             
+
 ## Part 1: Functional Programming
 - **Time Spent:** ~30 minutes  
 - **Approach:** Wrote a function that removes repeated numbers from a list while keeping the original order. The original list stays unchanged.
@@ -28,12 +38,4 @@ pip install -r requirements.txt
 pytest part2-api-testing/test_api.py
 ```
 
-### Structure
-qa-analyst-assessment/
-├── README.md                     
-├── requirements.txt            
-├── part1-functional/
-│   └── solution.py             
-├── part2-api-testing/
-│   └── test_api.py             
 
