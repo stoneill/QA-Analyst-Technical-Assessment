@@ -10,9 +10,11 @@ qa-analyst-assessment/
 ├── README.md                     
 ├── requirements.txt            
 ├── part1-functional/
-│   └── solution.py             
+│   
+└── solution.py             
 ├── part2-api-testing/
-│   └── test_api.py             
+│   
+└── test_api.py             
 
 ## Part 1: Functional Programming
 - **Time Spent:** ~30 minutes  
